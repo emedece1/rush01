@@ -12,7 +12,7 @@
 
 #include <unistd.h>
 #include "include.h"
-
+//main
 int	main(int argc, char **argv)
 {
 	t_views views;
